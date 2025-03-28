@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+PyPDF2
+nltk
+openai
+scikit-learn
+numpy
+python-multipart
+streamlit
+pdfplumber
